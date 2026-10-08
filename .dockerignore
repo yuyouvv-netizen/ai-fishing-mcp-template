@@ -1,0 +1,7 @@
+.git
+.venv
+__pycache__
+*.pyc
+fishing_save.json
+fishing_save.json.tmp
+fishing_save.json.backup-*
